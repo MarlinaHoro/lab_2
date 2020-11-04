@@ -27,3 +27,19 @@ Tipe data adalah jenis data yang tersimpan dalam variable adalah penyimpan data 
 
 (%=) = Melakukan operasi sisa bagi operand di kanan dengan operand di kiri dan hasilnya di simpan di operand yang di kiri
 
+4. merubah tipe data dari string ke integer
+   String Menyatakan karakter/kalimat bisa berupa huruf angka, dll (diapit tanda " atau ')
+
+ Integer Menyatakan bilangan bulat
+ 
+ #konversi nilai variable
+ `a= int (a)
+ `b= int (b)
+ 
+ jadi dirubah dulu tipe data nya karna yang diminta/di inputkan adalah integer
+
+5. dan hasil output dari bilangan oprator
+`
+ 
+ 
+

@@ -17,3 +17,13 @@ Tipe data adalah jenis data yang tersimpan dalam variable adalah penyimpan data 
 `print("Variable a=" ,a)`
 	
 `print("Variable b=" ,b)`
+
+3. untuk perhitungan kita menggunakan oprasi aritmatika
+
+`print("hasil penggabungan {1} & {0} = %d".format (a,b) %(a+b))
+
+`print("hasil penjumlahan {1}+{0} = %d" .format (a,b) %(a+b))
+`print("hasil pejumlahan {1}/{0} = %(d".format (a,b) %(a/b))
+
+(%=) = Melakukan operasi sisa bagi operand di kanan dengan operand di kiri dan hasilnya di simpan di operand yang di kiri
+

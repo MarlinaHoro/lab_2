@@ -20,26 +20,29 @@ Tipe data adalah jenis data yang tersimpan dalam variable adalah penyimpan data 
 
 3. untuk perhitungan kita menggunakan oprasi aritmatika
 
-`print("hasil penggabungan {1} & {0} = %d".format (a,b) %(a+b))
+ `print("hasil penggabungan {1} & {0} = %d".format (a,b) %(a+b))
 
-`print("hasil penjumlahan {1}+{0} = %d" .format (a,b) %(a+b))
-`print("hasil pejumlahan {1}/{0} = %(d".format (a,b) %(a/b))
+ `print("hasil penjumlahan {1}+{0} = %d" .format (a,b) %(a+b))
+ `print("hasil pejumlahan {1}/{0} = %(d".format (a,b) %(a/b))
 
 (%=) = Melakukan operasi sisa bagi operand di kanan dengan operand di kiri dan hasilnya di simpan di operand yang di kiri
 
 4. merubah tipe data dari string ke integer
    String Menyatakan karakter/kalimat bisa berupa huruf angka, dll (diapit tanda " atau ')
 
- Integer Menyatakan bilangan bulat
+  Integer Menyatakan bilangan bulat
  
- #konversi nilai variable
- `a= int (a)
- `b= int (b)
+  #konversi nilai variable
+  `a= int (a)
+  `b= int (b)
  
- jadi dirubah dulu tipe data nya karna yang diminta/di inputkan adalah integer
+  jadi dirubah dulu tipe data nya karna yang diminta/di inputkan adalah integer
 
 5. dan hasil output dari bilangan oprator
-`
+
  
  
 
+tampilan untuk keseluruhan
+
+![01.png](jpg)

@@ -43,4 +43,4 @@ Tipe data adalah jenis data yang tersimpan dalam variable adalah penyimpan data 
 
 tampilan untuk keseluruhan
 
-![jpg](01.jpg)
+![01.jpg](/gambar/o1.jpg)

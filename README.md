@@ -17,7 +17,6 @@ Tipe data adalah jenis data yang tersimpan dalam variable adalah penyimpan data 
 `print("Variable a=" ,a)`
 	
 `print("Variable b=" ,b)`
-
 3. untuk perhitungan kita menggunakan oprasi aritmatika
 
  `print("hasil penggabungan {1} & {0} = %d".format (a,b) %(a+b))
@@ -26,7 +25,6 @@ Tipe data adalah jenis data yang tersimpan dalam variable adalah penyimpan data 
  `print("hasil pejumlahan {1}/{0} = %(d".format (a,b) %(a/b))
 
 (%=) = Melakukan operasi sisa bagi operand di kanan dengan operand di kiri dan hasilnya di simpan di operand yang di kiri
-
 4. merubah tipe data dari string ke integer
    String Menyatakan karakter/kalimat bisa berupa huruf angka, dll (diapit tanda " atau ')
 
@@ -45,4 +43,4 @@ Tipe data adalah jenis data yang tersimpan dalam variable adalah penyimpan data 
 
 tampilan untuk keseluruhan
 
-![01.png](jpg)
+![jpg](01.jpg)
